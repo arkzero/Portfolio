@@ -34,4 +34,4 @@ client/bower_components
 .node_repl_history
 
 # Webstorm Files
-.idea
+.idea/
