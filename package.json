@@ -1,0 +1,30 @@
+{
+  "name": "bryan-nissen-portfolio",
+  "version": "1.0.0",
+  "description": "Personal & Portfolio website for Application Developer, Bryan Nissen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkzero/Portfolio.git"
+  },
+  "author": "Bryan Nissen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkzero/Portfolio/issues"
+  },
+  "homepage": "https://github.com/arkzero/Portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "compression": "^1.6.1",
+    "ejs": "^2.4.1",
+    "express": "^4.12.2",
+    "lodash": "^3.3.1",
+    "method-override": "^2.3.5"
+  }
+}
